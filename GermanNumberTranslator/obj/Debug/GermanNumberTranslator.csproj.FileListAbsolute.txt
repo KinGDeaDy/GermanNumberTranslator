@@ -1,0 +1,24 @@
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\GermanNumberTranslator.exe.config
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\GermanNumberTranslator.exe
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\GermanNumberTranslator.pdb
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csprojAssemblyReference.cache
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.MainForm.resources
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.Properties.Resources.resources
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csproj.GenerateResource.cache
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csproj.CoreCompileInputs.cache
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.exe
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.pdb
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\Guna.UI2.dll
+C:\Users\aivas\source\repos\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csproj.CopyComplete
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\GermanNumberTranslator.exe.config
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\GermanNumberTranslator.exe
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\GermanNumberTranslator.pdb
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\bin\Debug\Guna.UI2.dll
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csprojAssemblyReference.cache
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.MainForm.resources
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.Properties.Resources.resources
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csproj.GenerateResource.cache
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csproj.CoreCompileInputs.cache
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.csproj.CopyComplete
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.exe
+C:\Users\aivas\Desktop\Учёба\3 курс\Взаимодействие ПО\GermanNumberTranslator\GermanNumberTranslator\obj\Debug\GermanNumberTranslator.pdb
